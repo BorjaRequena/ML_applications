@@ -1,24 +1,12 @@
-# Project name here
-> Summary description here.
+# Machine Learning application showcase
+> Illustration of various applications of machine learning in different fields.
 
 
-This file will become your README and also the index of your documentation.
+In this notebook we showcase the main applications of machine learning to illustrate the capabilities of the field. It is mainly intended to provide examples for those who are not familiar with the field of machine learning or that are starting in it. 
 
-## Install
-
-`pip install your_project_name`
-
-## How to use
-
-Fill me in please! Don't forget code examples:
-
-```
-1+1
-```
-
-
-
-
-    2
-
-
+The focus is mainly put on the application and the results without diving in the architecture details and parameters. We mainly use [fastai](https://docs.fast.ai/) to perform the demonstration and we encourage the reader to look at their [wonderful course](https://course.fast.ai/) and [book](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527).
+ 
+The main topics addressed are:
+* Computer vision
+* Natural language processing
+* Tabular data
