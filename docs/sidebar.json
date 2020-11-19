@@ -1,6 +1,6 @@
 {
   "ML_applications": {
     "Overview": "/",
-    "Machine Learning applications": "/core"
+    "Machine Learning applications": "core.html"
   }
 }
