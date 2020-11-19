@@ -11,7 +11,7 @@ entries:
       url: /
     - output: web,pdf
       title: Machine Learning applications
-      url: core.html
+      url: ml_applications.html
     output: web
     title: ML_applications
   output: web
