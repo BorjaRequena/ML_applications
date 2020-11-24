@@ -11,7 +11,10 @@ entries:
       url: /
     - output: web,pdf
       title: Machine Learning applications
-      url: ml_applications.html
+      url: applications.html
+    - output: web,pdf
+      title: Homework
+      url: homework.html
     output: web
     title: ML_applications
   output: web

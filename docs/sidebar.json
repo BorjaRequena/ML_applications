@@ -1,6 +1,7 @@
 {
   "ML_applications": {
     "Overview": "/",
-    "Machine Learning applications": "ml_applications.html"
+    "Machine Learning applications": "applications.html",
+    "Homework": "homework.html"
   }
 }
